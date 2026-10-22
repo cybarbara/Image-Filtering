@@ -6,10 +6,8 @@ A web-based image processing application built with **React.js** and **Node.js**
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/aScreenshot 2026-10-22 185038.png)
+![Main Interface](screenshots/Screenshot 2026-10-22 185038.png)
 
-### Image Comparison
-![Image Comparison](screenshots/compare.png)
 ## Features
 
 - **Image Upload** – Upload images using drag and drop.
