@@ -6,7 +6,7 @@ A web-based image processing application built with **React.js** and **Node.js**
 ## Screenshots
 
 ### Main Interface
-![Main Interface](Screenshots\Screenshot 2026-10-22 184946.png)
+![Main Interface](Screenshots/Screenshot%202026-10-22%20184946.png)
 
 ## Features
 
